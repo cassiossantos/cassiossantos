@@ -33,5 +33,6 @@ I am a Senior Software Engineer passionate about solving complex challenges and 
 
 - **Website:** [cassiossantos.dev](http://cassiossantos.dev/)
 - **LinkedIn:** [linkedin.com/in/cassiossantos](https://www.linkedin.com/in/cassiossantos/)
+- **Medium:** [@cassiossantos](https://medium.com/@cassiossantos)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate on something exciting.
