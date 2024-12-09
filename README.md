@@ -6,7 +6,7 @@ I am a Senior Software Engineer passionate about solving complex challenges and 
 
 - 🌱 I’m currently learning more about decentralized networks and P2P communication.
 - 💬 Ask me about software architecture, microservices, or anything related to frontend and backend development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cassiossantos/) | [Email](mailto:cassio.slv1654@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://br.linkedin.com/in/cassiossantos) | [Email](mailto:cassio.slv1654@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also passionate about physics and enjoy reading about the latest developments in quantum mechanics.
 
