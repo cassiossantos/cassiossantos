@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Cássio S. Santos
+# 👋 Hi there! I'm Cássio
 
 ## About Me
 
